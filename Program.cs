@@ -5,7 +5,7 @@ namespace MyfirstProgram
     class Program
     {
         static void Main(String[] args)
-        { // es komentaria btw 
+        { // I.P
             Random random = new Random();
             bool playagain = true;
             int min = 1;
